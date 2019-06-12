@@ -1,0 +1,18 @@
+{
+    "name": "qlixes/smsgateway",
+    "description": "Android Smsgateway using EnvanyaSMS",
+    "type": "library",
+    "license": "LGPL",
+    "authors": [
+        {
+            "name": "Bryan Chan",
+            "email": "qlixess@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "qlixes\\EnvayaSMS\\": "src"
+        }
+    },
+    "require": {}
+}
