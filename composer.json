@@ -2,7 +2,7 @@
     "name": "qlixes/envajasms",
     "description": "Android Smsgateway using EnvanyaSMS",
     "type": "library",
-    "license": "LGPL",
+    "license": "GPL",
     "authors": [
         {
             "name": "Bryan Chan",
