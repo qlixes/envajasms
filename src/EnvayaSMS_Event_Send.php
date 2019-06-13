@@ -2,7 +2,7 @@
 
 namespace qlixes\EnvayaSMS;
 
-namespace qlixes\EnvayaSMS\EnvayaSMS_Event;
+use qlixes\EnvayaSMS\EnvayaSMS_Event;
 
 /*
  * Instruct the phone to send one or more outgoing messages (SMS or USSD)

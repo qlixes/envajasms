@@ -2,6 +2,9 @@
 
 namespace qlixes\EnvayaSMS;
 
+use qlixes\EnvayaSMS\EnvayaSMS_ActionRequest;
+use qlixes\EnvayaSMS\EnvayaSMS_Request;
+
 /*
  * PHP server library for EnvayaSMS 3.0
  *
