@@ -2,7 +2,7 @@
 
 namespace qlixes\EnvayaSMS;
 
-use qlixes\EnvanyaSMS\EnvayaSMS_Request;
+use qlixes\EnvayaSMS\EnvayaSMS_Request;
 
 class EnvayaSMS_ActionRequest extends EnvayaSMS_Request
 {
